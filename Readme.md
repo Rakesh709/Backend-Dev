@@ -1,4 +1,4 @@
 #Chai our backend series
 
 This is a video series on backend with javascript
--[model Link](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbTV5S0FWNGtiWDY4TGZYMzZ6Y1AyMDFsRzlVUXxBQ3Jtc0tsY3Y3enZ0aE53bk11V2I4VGlyMXl4bzhVU0RKb25mdGc3U3FKakxSLWNNVnRWVHhRckdfSXFwTEZrZ01qUFB2OWxpLW9ubEg1czAtVUhYa29aUVVCUnEyUUxtT1llVi0tUVZHWmhDZkpSVmY5NjVWTQ&q=https%3A%2F%2Fapp.eraser.io%2Fworkspace%2FYtPqZ1VogxGy1jzIDkzj%3Forigin%3Dshare&v=9B4CvtzXRpc)
+ -[model Link](https://app.eraser.io/workspace/YtPqZ1VogxGy1jzIDkzj)
