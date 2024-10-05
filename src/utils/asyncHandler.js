@@ -12,7 +12,7 @@ export {asyncHandler}
 // const asyncHandler = (func)=> async () =>{}
 
 
-
+//wrapper function
 //mostly in production grade 
 // const asyncHandler = (fn ) => async (req,res,next) => { 
 //     try {
